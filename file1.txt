@@ -1,0 +1,2 @@
+Source file1
+Changed text
